@@ -1,3 +1,4 @@
+package CalorieCalculator;
 import java.util.Scanner;
 
 public class CalorieCalculator {
